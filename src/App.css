@@ -1,0 +1,46 @@
+
+
+
+.form {
+background-color: rgb(189, 228, 176);
+width: 600px;
+height: 200px;
+text-align: center;
+margin: 40px;
+line-height: 200px;
+border: 5px solid rgba(16, 187, 0, 0.856);
+justify-content: flex-end;
+}
+
+.box1 {
+  width: 100px;
+  height: 50px;
+  margin: 20px;
+
+}
+
+.box2 {
+  width: 100px;
+  height: 50px;
+  margin: 20px;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+}
+
+.display {
+  background-color: rgb(250, 217, 249);
+width: 600px;
+height: 200px;
+margin: 40px;
+line-height: 200px;
+font-display: 30px;
+border: 5px solid rgba(254, 106, 241, 0.856);
+}
+
+.display-component {
+  margin-inline: 50px;
+}
+
